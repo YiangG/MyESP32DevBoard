@@ -1,0 +1,794 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 25.527 14.605 0 N R9 RES_0402_47.5K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 47.5K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 47.5K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '47.5K'
+TOP 0 24.8770013 14.605 270 N 46 21 1
+TOP 1 26.17700124 14.605 270 N 1 2 2
+#
+# CMP 1
+CMP 1 39.751 14.859 180 N R2 RES_0402_1K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 1K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 1K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '1K'
+TOP 0 40.4009987 14.859 90 N 16 1 1
+TOP 1 39.10099876 14.859 90 N 41 5 2
+#
+# CMP 2
+CMP 1 22.86 14.605 180 N R1 RES_0402_1K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 1K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 1K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '1K'
+TOP 0 23.5099987 14.605 90 N 12 1 1
+TOP 1 22.20999876 14.605 90 N 44 9 2
+#
+# CMP 3
+CMP 14 32.512 14.859 180 N D6 BAT760-7 ;0=1,1=0.0000
+PRP Availability 'Good'
+PRP DigiKey-Purchase-URL 'https://snapeda.com/shop?store=DigiKey&id=4817231'
+PRP MF 'Diodes Zetex'
+PRP Mouser-Purchase-URL 'https://snapeda.com/shop?store=Mouser&id=4817231'
+PRP MP 'BAT760-7'
+PRP Package 'None'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/BAT760-7/Zetex/view-part/4817231/?ref=snap'
+PRP Value ''
+TOP 0 31.32199984 14.859 180 N 45 3 A
+TOP 1 33.70200016 14.859 180 N 41 3 C
+#
+# CMP 4
+CMP 1 9.779 13.97 270 N R13 RES_0402_10K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 10K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 10K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '10K'
+TOP 0 9.779 13.3200013 180 N 42 3 1
+TOP 1 9.779 14.62000124 180 N 44 15 2
+#
+# CMP 5
+CMP 2 46.99 1.016 0 N R12 RES_0402_22_5% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 22 0402  5%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 22R 5%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '5%'
+PRP Val ''
+PRP Value '22'
+TOP 0 46.3400013 1.016 270 N 37 1 1
+TOP 1 47.64000124 1.016 270 N 36 1 2
+#
+# CMP 6
+CMP 2 46.99 2.413 0 N R11 RES_0402_22_5% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 22 0402  5%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 22R 5%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '5%'
+PRP Val ''
+PRP Value '22'
+TOP 0 46.3400013 2.413 270 N 38 1 1
+TOP 1 47.64000124 2.413 270 N 36 2 2
+#
+# CMP 7
+CMP 2 24.765 6.223 90 N R10 RES_0402_0_5% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 0 0402  5%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 0R 5%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '5%'
+PRP Val ''
+PRP Value '0'
+TOP 0 24.765 6.8729987 0 N 4 1 1
+TOP 1 24.765 5.57299876 0 N 9 1 2
+#
+# CMP 8
+CMP 2 23.622 6.223 90 N R8 RES_0402_0_5% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 0 0402  5%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 0R 5%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '5%'
+PRP Val ''
+PRP Value '0'
+TOP 0 23.622 6.8729987 0 N 8 1 1
+TOP 1 23.622 5.57299876 0 N 5 1 2
+#
+# CMP 9
+CMP 1 28.194 14.605 0 N R7 RES_0402_22.1K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 22.1K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 22.1K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '22.1K'
+TOP 0 27.5440013 14.605 270 N 1 1 1
+TOP 1 28.84400124 14.605 270 N 44 7 2
+#
+# CMP 10
+CMP 1 29.972 9.017 90 N R6 RES_0402_10K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 10K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 10K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '10K'
+TOP 0 29.972 9.6669987 0 N 10 2 1
+TOP 1 29.972 8.36699876 0 N 13 1 2
+#
+# CMP 11
+CMP 1 20.066 13.208 270 N R5 RES_0402_10K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 10K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 10K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '10K'
+TOP 0 20.066 12.5580013 180 N 46 35 1
+TOP 1 20.066 13.85800124 180 N 11 1 2
+#
+# CMP 12
+CMP 1 29.972 11.684 270 N R4 RES_0402_10K_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 10K 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 10K 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '10K'
+TOP 0 29.972 11.0340013 180 N 43 2 1
+TOP 1 29.972 12.33400124 180 N 14 1 2
+#
+# CMP 13
+CMP 1 44.958 6.096 180 N R3 RES_0402_560_1% ;0=1,1=0.6096
+PRP Description_in_Visual 'Res SMT 560 0402  1%  0.063W'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'RES 0402 560R 1%'
+PRP Mount 'SMT'
+PRP PCB_Package '0402'
+PRP Power_Rating '0.063W'
+PRP Tol ''
+PRP Tolerance '1%'
+PRP Val ''
+PRP Value '560'
+TOP 0 45.6079987 6.096 90 N 15 0 1
+TOP 1 44.30799876 6.096 90 N 44 16 2
+#
+# CMP 14
+CMP 15 7.366 9.398 270 N D5 LESD5D5.0CT1G ;0=1,1=0.7000
+PRP Availability 'Not in stock'
+PRP Check_prices 'https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda'
+PRP MF 'Leshan Radio Co.'
+PRP MP 'LESD5D5.0CT1G'
+PRP Package 'None'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap'
+PRP Value ''
+TOP 0 7.366 8.73799878 270 N 46 18 1
+TOP 1 7.366 10.05800122 270 N 2 2 2
+#
+# CMP 15
+CMP 12 44.958 8.636 270 N D2 LSM0805452V ;0=1,1=1.1000
+PRP Forward_Voltage '2V'
+PRP RoHS_Compliant 'Yes'
+PRP Test_Current '20mA'
+TOP 0 44.958 9.6159193 270 N 15 1 A
+TOP 1 44.958 7.65591814 270 N 22 2 K
+#
+# CMP 16
+CMP 13 44.958 12.319 270 N D1 LSM0805412V ;0=1,1=1.1000
+PRP Forward_Voltage '2V'
+PRP RoHS_Compliant 'Yes'
+PRP Test_Current '20mA'
+TOP 0 44.958 13.2989193 270 N 16 0 A
+TOP 1 44.958 11.33891814 270 N 46 43 K
+#
+# CMP 17
+CMP 0 9.779 11.0744 270 N C12 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 9.779 10.4244013 180 N 46 42 1
+TOP 1 9.779 11.72440124 180 N 42 4 2
+#
+# CMP 18
+CMP 0 9.652 6.985 90 N C11 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 9.652 7.6349987 0 N 46 41 1
+TOP 1 9.652 6.33499876 0 N 38 2 2
+#
+# CMP 19
+CMP 0 36.322 14.859 180 N C10 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 36.9719987 14.859 90 N 46 37 1
+TOP 1 35.67199876 14.859 90 N 41 4 2
+#
+# CMP 20
+CMP 0 47.498 8.89 270 N C9 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 47.498 8.2400013 180 N 46 39 1
+TOP 1 47.498 9.54000124 180 N 44 13 2
+#
+# CMP 21
+CMP 4 47.498 12.192 90 N C8 CAP_0805_22UF_10V_20%_X5R ;0=1,1=1.5240
+PRP Description_in_Visual 'Cap SMT 0805 22UF 10V 20%  Cer X5R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0805 22UF 10V 20% X5R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0805 22UF 10V 20% X5R'
+PRP PCB_Package '0805'
+PRP Tolerance '20%'
+PRP Type 'Ceramic X5R'
+PRP Val ''
+PRP Value '22UF'
+PRP Vol ''
+PRP Voltage '10V'
+TOP 0 47.498 13.1419981 0 N 46 40 1
+TOP 1 47.498 11.24199936 0 N 44 14 2
+#
+# CMP 22
+CMP 0 7.366 14.478 90 N C7 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 7.366 15.1279987 0 N 46 10 1
+TOP 1 7.366 13.82799876 0 N 45 1 2
+#
+# CMP 23
+CMP 0 3.81 15.113 0 N C6 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 3.1600013 15.113 270 N 46 36 1
+TOP 1 4.46000124 15.113 270 N 44 11 2
+#
+# CMP 24
+CMP 0 2.01671936 4.73722446 0 N C5 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 1.36672066 4.73722446 270 N 46 38 1
+TOP 1 2.6667206 4.73722446 270 N 44 12 2
+#
+# CMP 25
+CMP 3 28.575 11.176 270 N C4 CAP_0603_4.7UF_10V_10%_X5R ;0=1,1=0.9652
+PRP Description_in_Visual 'Cap SMT 0603 4.7UF 10V 10%  Cer X5R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0603 4.7UF 10V 10% X5R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0603 4.7UF 10V 10% X5R'
+PRP PCB_Package '0603'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X5R'
+PRP Val ''
+PRP Value '4.7UF'
+PRP Vol ''
+PRP Voltage '10V'
+TOP 0 28.575 10.3260017 180 N 46 22 1
+TOP 1 28.575 12.02600084 180 N 44 8 2
+#
+# CMP 26
+CMP 0 28.194 13.462 180 N C3 CAP_0402_0.1UF_16V_10%_X7R ;0=1,1=0.6096
+PRP Description_in_Visual 'Cap SMT 0402 0.1UF 16V 10%  Cer X7R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0402 0.1UF 16V 10% X7R'
+PRP PCB_Package '0402'
+PRP Tolerance '10%'
+PRP Type 'Ceramic X7R'
+PRP Val ''
+PRP Value '0.1UF'
+PRP Vol ''
+PRP Voltage '16V'
+TOP 0 28.8439987 13.462 90 N 46 44 1
+TOP 1 27.54399876 13.462 90 N 44 17 2
+#
+# CMP 27
+CMP 4 35.433 8.001 270 N C2 CAP_0805_22UF_10V_20%_X5R ;0=1,1=1.5240
+PRP Description_in_Visual 'Cap SMT 0805 22UF 10V 20%  Cer X5R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0805 22UF 10V 20% X5R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0805 22UF 10V 20% X5R'
+PRP PCB_Package '0805'
+PRP Tolerance '20%'
+PRP Type 'Ceramic X5R'
+PRP Val ''
+PRP Value '22UF'
+PRP Vol ''
+PRP Voltage '10V'
+TOP 0 35.433 7.0510019 180 N 46 9 1
+TOP 1 35.433 8.95100064 180 N 44 6 2
+#
+# CMP 28
+CMP 4 35.433 11.938 270 N C1 CAP_0805_22UF_10V_20%_X5R ;0=1,1=1.5240
+PRP Description_in_Visual 'Cap SMT 0805 22UF 10V 20%  Cer X5R'
+PRP Manufacturer 'Various'
+PRP Manufacturer_P/N 'CAP 0805 22UF 10V 20% X5R'
+PRP Mount 'SMT'
+PRP P/N 'CAP 0805 22UF 10V 20% X5R'
+PRP PCB_Package '0805'
+PRP Tolerance '20%'
+PRP Type 'Ceramic X5R'
+PRP Val ''
+PRP Value '22UF'
+PRP Vol ''
+PRP Voltage '10V'
+TOP 0 35.433 10.9880019 180 N 46 8 1
+TOP 1 35.433 12.88800064 180 N 41 2 2
+#
+# CMP 29
+CMP 7 23.749 10.795 180 N U2 CP2102N-A02-GQFN28R ;0=1,1=0.0000
+TOP 0 26.14900028 9.29500046 180 N 0 32 1
+TOP 1 26.14900028 9.79499946 180 N 0 31 2
+TOP 2 26.14900028 10.295001 180 N 46 50 3
+TOP 3 26.4740009 10.795 180 N 2 3 4
+TOP 4 26.14900028 11.294999 180 N 3 3 5
+TOP 5 26.14900028 11.79500054 180 N 44 20 6
+TOP 6 26.14900028 12.29499954 180 N 44 21 7
+TOP 7 25.24899954 13.19500028 180 N 1 3 8
+TOP 8 24.74900054 13.19500028 180 N 12 2 9
+TOP 9 24.248999 13.19500028 180 N 0 30 10
+TOP 10 23.749 13.5200009 180 N 11 2 11
+TOP 11 23.249001 13.19500028 180 N 0 29 12
+TOP 12 22.74899946 13.19500028 180 N 0 28 13
+TOP 13 22.24900046 13.19500028 180 N 0 27 14
+TOP 14 21.34899972 12.29499954 180 N 0 26 15
+TOP 15 21.34899972 11.79500054 180 N 0 25 16
+TOP 16 21.34899972 11.294999 180 N 0 24 17
+TOP 17 21.073999 10.795 180 N 0 23 18
+TOP 18 21.34899972 10.295001 180 N 0 22 19
+TOP 19 21.34899972 9.79499946 180 N 0 21 20
+TOP 20 21.34899972 9.29500046 180 N 0 20 21
+TOP 21 22.24900046 8.39499972 180 N 0 19 22
+TOP 22 22.74899946 8.39499972 180 N 0 18 23
+TOP 23 23.249001 8.39499972 180 N 10 3 24
+TOP 24 23.749 8.119999 180 N 8 2 25
+TOP 25 24.248999 8.39499972 180 N 4 2 26
+TOP 26 24.74900054 8.39499972 180 N 0 17 27
+TOP 27 25.24899954 8.39499972 180 N 43 3 28
+TOP 28 23.749 10.795 180 N 46 51 29
+#
+# CMP 30
+CMP 6 39.878 9.906 90 N U1 AMS1117-3.3 ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Category 'IC'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'http://www.advanced-monolithic.com/pdf/ds1117.pdf'
+PRP Device_Class_L1 'Integrated Circuits (ICs)'
+PRP Device_Class_L2 'Power Management ICs'
+PRP Device_Class_L3 'Voltage Regulators - Linear'
+PRP Dropout_Voltage '1.1V'
+PRP Height '1.8mm'
+PRP Ipc_Land_Pattern_Name 'SOT229P700X180-4'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Advanced Monolithic Systems'
+PRP Manufacturer_Part_Number 'AMS1117-3.3'
+PRP Max_Junction_Temp '+125°„C'
+PRP Max_Power_Dissipation '1.2W'
+PRP Max_Supply_Voltage '15V'
+PRP Nominal_Supply_Current '5mA'
+PRP Number_Of_Outputs '1'
+PRP Octopart 'https://octopart.com/ams1117-3.3-advanced+monolithic+systems-25899300'
+PRP Output_Current '1A'
+PRP Output_Type 'Fixed'
+PRP Output_Voltage '3.3V'
+PRP Package 'AMS1117'
+PRP RoHS 'TRUE'
+PRP Standoff_Height '0.64mm'
+PRP Temperature '-40°„C to +125°„C'
+PRP Temperature_Range_High '+125°„C'
+PRP Temperature_Range_Low '-40°„C'
+TOP 0 42.1680005 13.20099976 90 N 46 49 1
+TOP 1 39.878 13.20099976 90 N 44 18 2
+TOP 2 37.5879995 13.20099976 90 N 41 6 3
+TOP 3 39.878 6.61100024 90 N 44 19 4
+#
+# CMP 31
+CMP 10 14.859 12.7 0 N RST TL3305AF260QG ;0=1,1=0.0000
+PRP Actuator_Type 'Standard'
+PRP Illumination_Type 'Non-Illuminated'
+PRP Lead_Free 'Lead Free'
+PRP Max_Operating_Temperature '70°„C'
+PRP Mechanical_Life '200000Cycles'
+PRP Min_Operating_Temperature '-20°„C'
+PRP Mount 'Surface Mount'
+PRP Operating_Force '260gf'
+PRP Packaging 'Tape and Reel'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.2mm'
+PRP Termination 'Gull Wing'
+PRP Throw_Configuration 'SPST'
+TOP 0 11.25899958 11.20000046 0 N 46 45 1
+TOP 1 18.45900042 11.20000046 0 N 46 46 2
+TOP 2 11.25899958 14.19999954 0 N 42 5 3
+TOP 3 18.45900042 14.19999954 0 N 42 6 4
+#
+# CMP 32
+CMP 10 14.859 7.62 0 N BOOT/USR TL3305AF260QG ;0=1,1=0.0000
+PRP Actuator_Type 'Standard'
+PRP Illumination_Type 'Non-Illuminated'
+PRP Lead_Free 'Lead Free'
+PRP Max_Operating_Temperature '70°„C'
+PRP Mechanical_Life '200000Cycles'
+PRP Min_Operating_Temperature '-20°„C'
+PRP Mount 'Surface Mount'
+PRP Operating_Force '260gf'
+PRP Packaging 'Tape and Reel'
+PRP Switch_Function 'Off-Mom'
+PRP Switch_Travel '0.2mm'
+PRP Termination 'Gull Wing'
+PRP Throw_Configuration 'SPST'
+TOP 0 11.25899958 6.12000046 0 N 38 3 1
+TOP 1 18.45900042 6.12000046 0 N 38 4 2
+TOP 2 11.25899958 9.11999954 0 N 46 47 3
+TOP 3 18.45900042 9.11999954 0 N 46 48 4
+#
+# CMP 33
+CMP 9 32.13699948 8.128 0 N Q3 SS8050-G ;0=1,1=0.0000
+PRP Case/Package 'TO-236-3'
+PRP Collector_Emitter_Breakdown_Voltage '25V'
+PRP Collector_Emitter_Voltage_(VCEO) '400mV'
+PRP Max_Breakdown_Voltage '25V'
+PRP Max_Collector_Current '1.5A'
+PRP Max_Power_Dissipation '300mW'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Transition_Frequency '100MHz'
+TOP 0 31.12699896 9.07800064 0 N 13 0 1
+TOP 1 31.12699896 7.17799936 0 N 43 1 2
+TOP 2 33.147 8.128 0 N 38 0 3
+#
+# CMP 34
+CMP 9 32.131 11.43 0 N Q2 SS8050-G ;0=1,1=0.0000
+PRP Case/Package 'TO-236-3'
+PRP Collector_Emitter_Breakdown_Voltage '25V'
+PRP Collector_Emitter_Voltage_(VCEO) '400mV'
+PRP Max_Breakdown_Voltage '25V'
+PRP Max_Collector_Current '1.5A'
+PRP Max_Power_Dissipation '300mW'
+PRP Mount 'Surface Mount'
+PRP Packaging 'Tape and Reel'
+PRP RoHS_Compliant 'Yes'
+PRP Transition_Frequency '100MHz'
+TOP 0 31.12099948 12.38000064 0 N 14 0 1
+TOP 1 31.12099948 10.47999936 0 N 10 1 2
+TOP 2 33.14100052 11.43 0 N 42 2 3
+#
+# CMP 35
+CMP 8 62.103 10.16 90 N MD1 ESP32-WROOM-32E(M113EH3200PH3Q0) ;0=1,1=0.0000
+TOP 0 67.36299964 18.91000028 90 N 46 23 1
+TOP 1 66.09299964 18.91000028 90 N 44 10 2
+TOP 2 64.82299964 18.91000028 90 N 42 1 3
+TOP 3 63.55299964 18.91000028 90 N 6 0 4
+TOP 4 62.28299964 18.91000028 90 N 7 1 5
+TOP 5 61.01299964 18.91000028 90 N 40 1 6
+TOP 6 59.74299964 18.91000028 90 N 39 1 7
+TOP 7 58.47299964 18.91000028 90 N 18 1 8
+TOP 8 57.20299964 18.91000028 90 N 17 1 9
+TOP 9 55.93299964 18.91000028 90 N 21 1 10
+TOP 10 54.66299964 18.91000028 90 N 20 1 11
+TOP 11 53.39299964 18.91000028 90 N 19 1 12
+TOP 12 52.12299964 18.91000028 90 N 30 1 13
+TOP 13 50.85299964 18.91000028 90 N 32 1 14
+TOP 14 49.6029996 15.875 90 N 46 25 15
+TOP 15 49.6029996 14.605 90 N 31 1 16
+TOP 16 49.6029996 13.335 90 N 0 38 17
+TOP 17 49.6029996 12.065 90 N 0 37 18
+TOP 18 49.6029996 10.795 90 N 0 36 19
+TOP 19 49.6029996 9.525 90 N 0 35 20
+TOP 20 49.6029996 8.255 90 N 0 34 21
+TOP 21 49.6029996 6.985 90 N 0 33 22
+TOP 22 49.6029996 5.715 90 N 29 1 23
+TOP 23 49.6029996 4.445 90 N 35 1 24
+TOP 24 50.85299964 1.40999972 90 N 36 0 25
+TOP 25 52.12299964 1.40999972 90 N 34 1 26
+TOP 26 53.39299964 1.40999972 90 N 28 1 27
+TOP 27 54.66299964 1.40999972 90 N 27 1 28
+TOP 28 55.93299964 1.40999972 90 N 33 1 29
+TOP 29 57.20299964 1.40999972 90 N 26 1 30
+TOP 30 58.47299964 1.40999972 90 N 25 1 31
+TOP 31 59.74299964 1.40999972 90 N 0 39 32
+TOP 32 61.01299964 1.40999972 90 N 24 1 33
+TOP 33 62.28299964 1.40999972 90 N 9 2 34
+TOP 34 63.55299964 1.40999972 90 N 5 2 35
+TOP 35 64.82299964 1.40999972 90 N 23 1 36
+TOP 36 66.09299964 1.40999972 90 N 22 1 37
+TOP 37 67.36299964 1.40999972 90 N 46 24 38
+TOP 38 61.04299958 13.05999928 90 N 46 26 39
+TOP 39 61.04299958 11.65999954 90 N 46 27 39
+TOP 40 61.04299958 10.2599998 90 N 46 28 39
+TOP 41 59.64299984 13.05999928 90 N 46 29 39
+TOP 42 59.64299984 11.65999954 90 N 46 30 39
+TOP 43 59.64299984 10.2599998 90 N 46 31 39
+TOP 44 58.2430001 13.05999928 90 N 46 32 39
+TOP 45 58.2430001 11.65999954 90 N 46 33 39
+TOP 46 58.2430001 10.2599998 90 N 46 34 39
+#
+# CMP 36
+CMP 5 1.778 10.16 90 N J2 473460001 ;0=1,1=0.0000
+PRP Automotive 'No'
+PRP Category 'Conn'
+PRP ComponentLink2Description 'Datasheet'
+PRP ComponentLink2URL 'https://www.molex.com/webdocs/datasheets/pdf/en-us/0473460001_IO_CONNECTORS.pdf'
+PRP Conn_Orientation 'Right Angle'
+PRP Contact_Material 'Gold,Nickel'
+PRP Current_Rating '1.8A'
+PRP Device_Class_L1 'Connectors'
+PRP Device_Class_L2 'USB Connectors'
+PRP Device_Class_L3 'unset'
+PRP Digikey_Description 'CONN RCPT USB2.0 MICRO B SMD R/A'
+PRP Footprint_Url 'https://www.molex.com/pdm_docs/sd/473460001_sd.pdf'
+PRP Height '2.945mm'
+PRP Is_Female 'yes'
+PRP Lead_Free 'Yes'
+PRP Manufacturer 'Molex'
+PRP Manufacturer_Part_Number '473460001'
+PRP Number_Of_Contacts '5'
+PRP Octopart 'https://octopart.com/47346-0001-molex-7164928'
+PRP Package '0'
+PRP Pitch '0.65mm'
+PRP RoHS 'TRUE'
+PRP Shielding 'true'
+PRP Temperature '-30°„C to +85°„C'
+PRP Temperature_Range_High '+85°„C'
+PRP Temperature_Range_Low '-30°„C'
+PRP Usb_Standard 'USB 2.0'
+PRP Voltage_Rating '30V'
+TOP 0 4.08800046 11.45999994 90 N 45 2 1
+TOP 1 4.08800046 10.81000124 90 N 3 1 2
+TOP 2 4.08800046 10.16 90 N 2 1 3
+TOP 3 4.08800046 9.50999876 90 N 0 16 4
+TOP 4 4.08800046 8.86000006 90 N 46 17 5
+TOP 5 4.00299936 12.64750074 90 N 46 15 6
+TOP 6 4.00299936 7.67249926 90 N 46 16 7
+TOP 7 1.4280007 13.5349996 90 N 46 11 8
+TOP 8 1.4280007 11.31000024 90 N 46 13 9
+TOP 9 1.4280007 8.61000056 90 N 46 14 10
+TOP 10 1.4280007 6.7850004 90 N 46 12 11
+#
+# CMP 37
+CMP 11 21.844 19.05 0 N J1 TSW-117-23-T-S ;0=2,1=0.0000
+PRP Color 'Black'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Material 'Bronze'
+PRP Contact_Mating_Length '0.23inch'
+PRP Contact_Plating 'Tin'
+PRP Contact_Type 'Male Pin'
+PRP Gender 'Male'
+PRP Height '2.54mm'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Plastic'
+PRP Lead_Free 'Lead Free'
+PRP Length '43.2mm'
+PRP Mount 'Through Hole'
+PRP Number_Of_Contacts '17'
+PRP Number_of_Positions '17'
+PRP Number_of_Rows '1'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Pitch '0.1inch'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'TSW'
+PRP Termination 'Solder'
+PRP Width '2.54mm'
+TOP 0 1.524 19.05 0 N 46 4 1
+TOP 1 4.064 19.05 0 N 44 4 2
+TOP 2 6.604 19.05 0 N 42 0 3
+TOP 3 9.144 19.05 0 N 6 1 4
+TOP 4 11.684 19.05 0 N 7 0 5
+TOP 5 14.224 19.05 0 N 40 0 6
+TOP 6 16.764 19.05 0 N 39 0 7
+TOP 7 19.304 19.05 0 N 18 0 8
+TOP 8 21.844 19.05 0 N 17 0 9
+TOP 9 24.384 19.05 0 N 21 0 10
+TOP 10 26.924 19.05 0 N 20 0 11
+TOP 11 29.464 19.05 0 N 19 0 12
+TOP 12 32.004 19.05 0 N 30 0 13
+TOP 13 34.544 19.05 0 N 32 0 14
+TOP 14 37.084 19.05 0 N 46 5 15
+TOP 15 39.624 19.05 0 N 31 0 16
+TOP 16 42.164 19.05 0 N 41 1 17
+#
+# CMP 38
+CMP 11 21.844 1.27 0 N J3 TSW-117-23-T-S ;0=2,1=0.0000
+PRP Color 'Black'
+PRP Connector_Type 'Male Pin'
+PRP Contact_Material 'Bronze'
+PRP Contact_Mating_Length '0.23inch'
+PRP Contact_Plating 'Tin'
+PRP Contact_Type 'Male Pin'
+PRP Gender 'Male'
+PRP Height '2.54mm'
+PRP Housing_Color 'Black'
+PRP Housing_Material 'Plastic'
+PRP Lead_Free 'Lead Free'
+PRP Length '43.2mm'
+PRP Mount 'Through Hole'
+PRP Number_Of_Contacts '17'
+PRP Number_of_Positions '17'
+PRP Number_of_Rows '1'
+PRP Package_Quantity '1'
+PRP Packaging 'Bulk'
+PRP Pitch '0.1inch'
+PRP REACH_SVHC 'No SVHC'
+PRP RoHS_Compliant 'Yes'
+PRP Series 'TSW'
+PRP Termination 'Solder'
+PRP Width '2.54mm'
+TOP 0 1.524 1.27 0 N 44 5 1
+TOP 1 4.064 1.27 0 N 46 6 2
+TOP 2 6.604 1.27 0 N 22 0 3
+TOP 3 9.144 1.27 0 N 23 0 4
+TOP 4 11.684 1.27 0 N 5 0 5
+TOP 5 14.224 1.27 0 N 9 0 6
+TOP 6 16.764 1.27 0 N 24 0 7
+TOP 7 19.304 1.27 0 N 46 7 8
+TOP 8 21.844 1.27 0 N 25 0 9
+TOP 9 24.384 1.27 0 N 26 0 10
+TOP 10 26.924 1.27 0 N 33 0 11
+TOP 11 29.464 1.27 0 N 27 0 12
+TOP 12 32.004 1.27 0 N 28 0 13
+TOP 13 34.544 1.27 0 N 34 0 14
+TOP 14 37.084 1.27 0 N 37 0 15
+TOP 15 39.624 1.27 0 N 35 0 16
+TOP 16 42.164 1.27 0 N 29 0 17
+#
+# CMP 39
+CMP 15 7.366 11.684 90 N D4 LESD5D5.0CT1G ;0=1,1=0.7000
+PRP Availability 'Not in stock'
+PRP Check_prices 'https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda'
+PRP MF 'Leshan Radio Co.'
+PRP MP 'LESD5D5.0CT1G'
+PRP Package 'None'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap'
+PRP Value ''
+TOP 0 7.366 12.34400122 90 N 46 20 1
+TOP 1 7.366 11.02399878 90 N 3 2 2
+#
+# CMP 40
+CMP 15 6.096 14.097 90 N D3 LESD5D5.0CT1G ;0=1,1=0.7000
+PRP Availability 'Not in stock'
+PRP Check_prices 'https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=eda'
+PRP MF 'Leshan Radio Co.'
+PRP MP 'LESD5D5.0CT1G'
+PRP Package 'None'
+PRP Price 'None'
+PRP SnapEDA_Link 'https://www.snapeda.com/parts/LESD5D5.0CT1G/Leshan+Radio+Co./view-part/?ref=snap'
+PRP Value ''
+TOP 0 6.096 14.75700122 90 N 46 19 1
+TOP 1 6.096 13.43699878 90 N 45 4 2
+#

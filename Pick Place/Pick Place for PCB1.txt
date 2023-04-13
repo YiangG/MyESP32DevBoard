@@ -1,0 +1,54 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\ESP32MyDevBoard\Project Outputs for ESP32MyDevBoard\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/04/23
+Time:       09:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                          Layer    Footprint                     Center-X(mm) Center-Y(mm) Rotation Description                                                                  
+R9         "RES 0402 47.5K 1%"              TopLayer 0402_RES                      25.5270mm    14.6050mm    0        "Resistor Surface Mount, 47.5K Ohms, 0402 Footprint, 1% Tolerance 0.063W"    
+R2         "RES 0402 1K 1%"                 TopLayer 0402_RES                      39.7510mm    14.8590mm    180      "Resistor Surface Mount, 1K Ohms, 0402 Footprint, 1% Tolerance 0.063W"       
+R1         "RES 0402 1K 1%"                 TopLayer 0402_RES                      22.8600mm    14.6050mm    180      "Resistor Surface Mount, 1K Ohms, 0402 Footprint, 1% Tolerance 0.063W"       
+D6         BAT760-7                         TopLayer SOD2513X120N                  32.5120mm    14.8590mm    180      "Diode Schottky 30V 1A 2-Pin SOD-323 T/R"                                    
+R13        "RES 0402 10K 1%"                TopLayer 0402_RES                      9.7790mm     13.9700mm    90       "Resistor Surface Mount, 10K Ohms, 0402 Footprint, 1% Tolerance 0.063W"      
+R12        "RES 0402 22 5%"                 TopLayer 0402_RES                      46.9900mm    1.0160mm     0        "Resistor Surface Mount, 22 Ohms, 0402 Footprint, 5% Tolerance 0.063W"       
+R11        "RES 0402 22 5%"                 TopLayer 0402_RES                      46.9900mm    2.4130mm     0        "Resistor Surface Mount, 22 Ohms, 0402 Footprint, 5% Tolerance 0.063W"       
+R10        "RES 0402 0 5%"                  TopLayer 0402_RES                      24.7650mm    6.2230mm     270      "Resistor Surface Mount, 0 Ohms, 0402 Footprint, 5% Tolerance 0.063W"        
+R8         "RES 0402 0 5%"                  TopLayer 0402_RES                      23.6220mm    6.2230mm     270      "Resistor Surface Mount, 0 Ohms, 0402 Footprint, 5% Tolerance 0.063W"        
+R7         "RES 0402 22.1K 1%"              TopLayer 0402_RES                      28.1940mm    14.6050mm    0        "Resistor Surface Mount, 22.1K Ohms, 0402 Footprint, 1% Tolerance 0.063W"    
+R6         "RES 0402 10K 1%"                TopLayer 0402_RES                      29.9720mm    9.0170mm     270      "Resistor Surface Mount, 10K Ohms, 0402 Footprint, 1% Tolerance 0.063W"      
+R5         "RES 0402 10K 1%"                TopLayer 0402_RES                      20.0660mm    13.2080mm    90       "Resistor Surface Mount, 10K Ohms, 0402 Footprint, 1% Tolerance 0.063W"      
+R4         "RES 0402 10K 1%"                TopLayer 0402_RES                      29.9720mm    11.6840mm    90       "Resistor Surface Mount, 10K Ohms, 0402 Footprint, 1% Tolerance 0.063W"      
+R3         "RES 0402 560 1%"                TopLayer 0402_RES                      44.9580mm    6.0960mm     180      "Resistor Surface Mount, 560 Ohms, 0402 Footprint, 1% Tolerance 0.063W"      
+D5         LESD5D5.0CT1G                    TopLayer TVS_LESD5D5.0CT1G             7.3660mm     9.3980mm     90       "Transient Voltage Suppressors for ESD Protection"                           
+D2         LSM0805452V                      TopLayer LED_0805                      44.9580mm    8.6359mm     90       "Single Color LED, Green, 0805"                                              
+D1         LSM0805412V                      TopLayer LED_0805_RED                  44.9580mm    12.3189mm    90       "Single Color LED, RED, 0805"                                                
+C12        "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      9.7790mm     11.0744mm    90       "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C11        "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      9.6520mm     6.9850mm     270      "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C10        "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      36.3220mm    14.8590mm    180      "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C9         "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      47.4980mm    8.8900mm     90       "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C8         "CAP 0805 22UF 10V 20% X5R"      TopLayer 0805_CAP_60H                  47.4980mm    12.1920mm    270      "Capacitor Surface Mount 0805 Footprint 22UF 10V 20% Tolerance Ceramic X5R"  
+C7         "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      7.3660mm     14.4780mm    270      "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C6         "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      3.8100mm     15.1130mm    0        "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C5         "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      2.0167mm     4.7372mm     0        "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C4         "CAP 0603 4.7UF 10V 10% X5R"     TopLayer 0603_CAP                      28.5750mm    11.1760mm    90       "Capacitor Surface Mount 0603 Footprint 4.7UF 10V 10% Tolerance Ceramic X5R" 
+C3         "CAP 0402 0.1UF 16V 10% X7R"     TopLayer 0402_CAP                      28.1940mm    13.4620mm    180      "Capacitor Surface Mount 0402 Footprint 0.1UF 16V 10% Tolerance Ceramic X7R" 
+C2         "CAP 0805 22UF 10V 20% X5R"      TopLayer 0805_CAP_60H                  35.4330mm    8.0010mm     90       "Capacitor Surface Mount 0805 Footprint 22UF 10V 20% Tolerance Ceramic X5R"  
+C1         "CAP 0805 22UF 10V 20% X5R"      TopLayer 0805_CAP_60H                  35.4330mm    11.9380mm    90       "Capacitor Surface Mount 0805 Footprint 22UF 10V 20% Tolerance Ceramic X5R"  
+U2         CP2102N-A02-GQFN28R              TopLayer FP-CP2102N-A02-GQFN28R-MFG    23.7740mm    10.8200mm    180      "IC USB TO UART BRIDGE QFN28"                                                
+U1         AMS1117-3.3                      TopLayer FP-AMS1117-IPC_C              39.8780mm    9.9060mm     270      "LDO Voltage Regulators 1A, 3.3V"                                            
+RST        TL3305AF260QG                    TopLayer FP-TL3305AF260QG-MFG          14.8590mm    12.7000mm    0        "SWITCH TACTILE SPST-NO 50MA 12V"                                            
+BOOT/USR   TL3305AF260QG                    TopLayer FP-TL3305AF260QG-MFG          14.8590mm    7.6200mm     0        "SWITCH TACTILE SPST-NO 50MA 12V"                                            
+Q3         SS8050-G                         TopLayer FP-SS8050-G-MFG               32.1370mm    8.1280mm     0        "NPN TRANSISTOR 1.5A 40V SOT-23 R"                                           
+Q2         SS8050-G                         TopLayer FP-SS8050-G-MFG               32.1310mm    11.4300mm    0        "NPN TRANSISTOR 1.5A 40V SOT-23 R"                                           
+MD1        ESP32-WROOM-32E(M113EH3200PH3Q0) TopLayer FP-ESP32-WROOM-32E_M113EH-MFG 58.4830mm    10.1600mm    270      "RX TXRX MOD WIFI TRACE ANT SMD"                                             
+J2         473460001                        TopLayer FP-473460001-MFG              2.7580mm     10.1600mm    270      "CONN RCPT USB2.0 MICRO B SMD R/A"                                           
+J1         TSW-117-23-T-S                   TopLayer FP-TSW-117-23-T-S-MFG         21.8440mm    19.0500mm    0        "CONN HEADER VERT 17POS 2.54MM"                                              
+J3         TSW-117-23-T-S                   TopLayer FP-TSW-117-23-T-S-MFG         21.8440mm    1.2700mm     0        "CONN HEADER VERT 17POS 2.54MM"                                              
+D4         LESD5D5.0CT1G                    TopLayer TVS_LESD5D5.0CT1G             7.3660mm     11.6840mm    270      "Transient Voltage Suppressors for ESD Protection"                           
+D3         LESD5D5.0CT1G                    TopLayer TVS_LESD5D5.0CT1G             6.0960mm     14.0970mm    270      "Transient Voltage Suppressors for ESD Protection"                           

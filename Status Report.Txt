@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [ESP32MyDevBoard.PrjPcb]
+   Generated File[Bill of Materials-ESP32MyDevBoard.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:44:20 AM On 4/13/2023
